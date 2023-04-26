@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  font-family: 'Cabin', sans-serif;
+  font-weight: 400;
+}
+.logo{
+  width: 2.5rem;
+  height: 2.5rem;
+}
